@@ -7,7 +7,8 @@ Developed for the **Bharatiya Antariksh Hackathon 2026 (Problem Statement #10)**
 Geo-Resolve AI is a zero-terminal, browser-driven data pipeline designed to enhance and colorize low-resolution thermal infrared (TIR) satellite imagery. The system ingests unoptimized **200m spatial resolution TIR data** and reconstructs it into high-fidelity **100m super-resolved grayscale and colorized layers** using an optimized symmetric U-Net backbone architecture.
 
 ## 📦 Mandatory Deliverables Links
-* **Trained Model Weights (.pth):** [Download Pre-trained Weights Here](INSERT_YOUR_GOOGLE_DRIVE_PUBLIC_LINK_HERE)
+* **Trained Model Weights (.pth):** [Download Pre-trained Weights Here](https://drive.google.com/file/d/1hmEVQzt35ROfE7wlRZ1Jz_-GCnwL54X3/view?usp=sharing
+)
 * **Technical Evaluation Report (PDF):** [View Technical Report Here](./docs/Technical_Report.pdf)
 
 ## 📁 Repository Structure
